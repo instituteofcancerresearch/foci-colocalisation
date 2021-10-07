@@ -1,5 +1,5 @@
 # foci-colocalisation
- Adam Tyson | 15/12/2017 | adam.tyson@icr.ac.uk
+ Adam Tyson | 15/12/2017 | adam.tyson01@icr.ac.uk
 
 To segment nuclei and two channels of foci. Foci are measured and various foci parameters, including colocalisation are returned. Requires MATLAB licence (any recent version should work, but was written with MATLAB 2017b). The Image Processing toolbox is also needed.
 
